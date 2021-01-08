@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi. I'm a second year graduate student in political science at Washington University in St. Louis. My research interests focus on communications between the public and the political elites. 
+Hi, I'm a second year graduate student in political science at Washington University in St. Louis. My research interests focus on communications between the public and the political elites in domestic political settings.
