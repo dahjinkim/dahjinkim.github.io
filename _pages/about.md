@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a second year graduate student in political science at Washington University in St. Louis. My research interests focus on communications between the public and the political elites in domestic political settings. 
+Hi, I'm a fifth year graduate student in political science at Washington University in St. Louis. My research focuses on various forms of political communication through online channels, with a particular interest in misinformation and its correction. My dissertation project studies how leveraging online group identities influences peer-to-peer correction of misinformation in online communities in South Korea. Other topics of my research include political persuasion and belief updating, elite rhetoric and public opinion on social media, and protests in the digital age. My research has received support from APSA DDRIG and Weidenbaum Center.
