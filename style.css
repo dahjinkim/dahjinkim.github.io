@@ -61,6 +61,9 @@ img {
     color: #828282;
 }
 
+.jobmarketpaper .content{
+    word-break: break-word;
+}
 
 .sns ul {
     list-style-type: none;
