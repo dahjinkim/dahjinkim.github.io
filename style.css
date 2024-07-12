@@ -171,21 +171,12 @@ img {
         text-align: center;
     }
 
-    .site-nav .menu-icon>svg {
-        width: 18px;
-        height: 15px;
-    }
-
-    .site-nav .menu-icon>svg path {
-        fill: #424242;
-    }
-
-    .site-nav .trigger {
+    .site-nav .pages {
         clear: both;
         display: none;
     }
 
-    .site-nav:hover .trigger {
+    .site-nav:hover .pages {
         display: block;
         padding-bottom: 5px;
     }
