@@ -78,21 +78,6 @@ img {
     grid-template-columns: 1fr 2fr;
 }
 
-
-
-.email p{
-    margin: 0;
-}
-
-.email a{
-    text-decoration: none;
-    color: rgb(141, 170, 249);
-}
-
-.office p{
-    margin: 0;
-}
-
 .fixedfooter{
     position: fixed;
     bottom: 0;
